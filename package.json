@@ -1,0 +1,17 @@
+{
+  "name": "newComment_hashtags",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "type": "commonjs",
+  "dependencies": {
+    "instagram-web-api": "^2.2.2",
+    "tough-cookie-filestore2": "^1.0.0"
+  },
+  "devDependencies": {
+    "heroku": "^7.59.0"
+  }
+}
