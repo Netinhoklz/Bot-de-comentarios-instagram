@@ -68,6 +68,6 @@ module.exports = class AccountsFactory {
         console.log("problema no reset de uma hora");
         this.execute();
       }
-    }, 1000 * 60 * 60); // 1 hora
+    }, 1000 * 60 * 120); // 1 hora
   }
 };
