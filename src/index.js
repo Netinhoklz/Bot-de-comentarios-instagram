@@ -17,7 +17,7 @@ const main = async () => {
       clearInterval(commentInterval);
       main();
     }
-  }, 1000 * 60 * 20); //  3 minutos
+  }, 1000 * 60 * 25); //  3 minutos
 };
 
 main();

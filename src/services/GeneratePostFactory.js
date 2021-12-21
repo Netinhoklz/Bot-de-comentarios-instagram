@@ -6,7 +6,7 @@ module.exports = class GeneratePostFactory {
     try {
 
     const posts = await client.getPhotosByHashtag({
-      hashtag: 'pixelart',
+      hashtag: 'ceara',
       first: 1
     })
     
