@@ -1,32 +1,42 @@
-📸 Instagram Hashtag Comment Bot
+# 📸 Instagram Hashtag Comment Bot
+
 Bot em JavaScript que automatiza comentários em fotos do Instagram baseado em hashtags específicas.
-⚡ Funcionalidades
 
-Busca fotos por hashtags
-Comentários automáticos personalizáveis
-Filtros de engajamento
-Limites de ação para evitar bloqueios
-Sistema de delay aleatório
-Logging de atividades
+## ⚡ Funcionalidades
 
-🔧 Tecnologias
+- Busca fotos por hashtags
+- Comentários automáticos personalizáveis
+- Filtros de engajamento
+- Limites de ação para evitar bloqueios
+- Sistema de delay aleatório
+- Logging de atividades
 
-Node.js
-Instagram Private API
-Puppeteer
-Axios
-dotenv
+## 🔧 Tecnologias
 
-⚠️ Limitações
+- Node.js
+- Instagram Private API
+- Puppeteer
+- Axios
+- dotenv
 
-Respeita limites da API Instagram
-Máximo 60 ações/hora
-Necessário conta Instagram ativa
-Sujeito a captchas
+## ⚠️ Limitações
 
-❌ Práticas Proibidas
+- Respeita limites da API Instagram
+- Máximo 60 ações/hora
+- Necessário conta Instagram ativa
+- Sujeito a captchas
 
-Spam excessivo
-Comentários inadequados
-Múltiplas contas
-Bypass de limites
+## ❌ Práticas Proibidas
+
+- Spam excessivo
+- Comentários inadequados
+- Múltiplas contas
+- Bypass de limites
+
+## 👤 Autor
+
+Seu Nome - [@seu-usuario](https://github.com/seu-usuario)
+
+## 📝 Licença
+
+MIT License
